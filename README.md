@@ -1,7 +1,5 @@
 - 👋 Hi, We are @CodiumUz
 - 😎 We are web developers
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact us through telegram @codium_team
 
 <!---
